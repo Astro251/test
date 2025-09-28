@@ -1,12 +1,10 @@
 {
   "allowedHosts": [
     "prmovies.surf",
-    "prmovies.beer",
-    "cdn.prmovies.surf",
-    "google.com",
-    "streamtape.com"
+    "prmovies.beer"
   ]
 }
+
 
 
 
