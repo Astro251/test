@@ -1,7 +1,6 @@
 {
   "allowedHosts": [
-    "prmovies.surf",
-    "prmovies.beer",
+    "prmovies.*",
     "speedostream1.com",
     "speedostream.com",
     "ssl.p.jwpcdn.com",
@@ -15,6 +14,7 @@
     "commentsmodule.com"
   ]
 }
+
 
 
 
