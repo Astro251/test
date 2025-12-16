@@ -41,9 +41,12 @@
     "fonts.gstatic.com",
 
     "lok-lok.cc",
-    "*.hakunaymatata.com"
+    "*.hakunaymatata.com",
+    "*.shallspark.com",
+    "moviebox.*"
   ]
 }
+
 
 
 
