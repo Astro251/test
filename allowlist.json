@@ -38,9 +38,13 @@
     "*.cdn-tnmr.org",
     "img.lulucdn.com",
     "fonts.googleapis.com",
-    "fonts.gstatic.com"
+    "fonts.gstatic.com",
+
+    "lok-lok.cc",
+    "*.hakunaymatata.com"
   ]
 }
+
 
 
 
