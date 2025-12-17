@@ -1,11 +1,3 @@
 const body = document.body;
-const toKeep = [document.getElementsByClassName("video-box")];
-const allowedTags = ["TITLE"];
-const head = document.head;
-
+const toKeep = document.querySelectorAll(".video-box");
 body.replaceChildren(...toKeep);
-Array.from(head.children).forEach(child => {
-    if (!allowedTags.includes(child.tagName)) {
-        child.remove();
-    }
-});
