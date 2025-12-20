@@ -8,7 +8,7 @@ body {
     width: 100%;
     height: 100%;
     position: absolute;
-    content: url(https://i.ytimg.com/vi/Hhe-G6Mpe54/maxresdefault.jpg) !important;
+    content: url(https://assets.entrepreneur.com/content/3x2/2000/1593193401-fairandlovelyedited.jpg?format=pjeg&auto=webp&crop=16:9&width=675&height=380) !important;
 }
 .play-limit {
     position: absolute;
@@ -19,5 +19,5 @@ body {
     z-index: 9;
     background-color: #101114;
     background-size: cover;
-    background-image: url(https://i.ytimg.com/vi/Hhe-G6Mpe54/maxresdefault.jpg) !important;
+    background-image: url(https://assets.entrepreneur.com/content/3x2/2000/1593193401-fairandlovelyedited.jpg?format=pjeg&auto=webp&crop=16:9&width=675&height=380) !important;
 }
