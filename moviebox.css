@@ -1,12 +1,18 @@
 body {
    padding-top: 35vh;
 }
-.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title, .play-limit-desc, .download-tab, .content-warp {
+.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title, .play-limit-desc, .download-tab, .content-warp, .pc-play-limited {
     display: none !important;
 }
-.limited-bg[data-v-786d4e50] {
+.limited-bg {
     width: 100%;
     height: 100%;
     position: absolute;
     content: url(https://images.unsplash.com/photo-1766068969152-3e67775d0758?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D) !important;
+}
+.pc-limited-bg[data-v-47e5bd76] {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    content: url(https://images.unsplash.com/photo-1766068969152-3e67775d0758?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D);
 }
