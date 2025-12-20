@@ -1,6 +1,6 @@
 body {
    padding-top: 35vh;
 }
-.action-box, .detail-info, .content {
+.action-box, .action-item, .detail-info, .content {
     display: none;
 }
