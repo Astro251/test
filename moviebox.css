@@ -1,6 +1,6 @@
 body {
    padding-top: 35vh;
 }
-.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content {
+.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title, .play-limit-desc, .download-tab {
     display: none !important;
 }
