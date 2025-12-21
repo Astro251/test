@@ -43,5 +43,5 @@
 }
 .pc-video-content {
     align-items: center !important;
-    justify-content: center !important;
+    justify-content: flex-start !important;
 }
