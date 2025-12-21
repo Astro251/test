@@ -1,12 +1,12 @@
 .subject-box {
-    padding: 0px;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 0px !important;
+    height: 100vh !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
 }
 .video-cot {
-   width: 100vw;
+   width: 100vw !important;
 }
 .btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title,
 .play-limit-desc, .download-tab, .content-warp, .pc-play-limited, .pc-sub-nav, .pc-download-banner, .pc-main, .pc-fixed-box, 
