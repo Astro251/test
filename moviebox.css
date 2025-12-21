@@ -37,6 +37,11 @@
    height: 100% !important;
    padding: 0 10% !important;
 }
-.pc-sub-nav {
-    padding: 0px !important;
+.pc-video {
+    width: 80% !important;
+    height: 80% !important;
+}
+.pc-video-content {
+    align-items: center !important;
+    justify-content: center !important;
 }
