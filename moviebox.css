@@ -34,6 +34,6 @@
     background: orange !important;
 }
 .pc-video-page {
-   height: 100vh !important;
+   height: 100% !important;
    padding: 0 10% !important;
 }
