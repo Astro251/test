@@ -2,7 +2,8 @@ body {
    padding-top: 35vh;
 }
 .btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title,
-.play-limit-desc, .download-tab, .content-warp, .pc-play-limited, .pc-sub-nav, .pc-download-banner, .pc-main, .pc-fixed-box, .pc-feedback-tip {
+.play-limit-desc, .download-tab, .content-warp, .pc-play-limited, .pc-sub-nav, .pc-download-banner, .pc-main, .pc-fixed-box, 
+.pc-feedback-tip, .pc-tv-arr-box {
     display: none !important;
 }
 .limited-bg, .pc-limited-bg {
@@ -24,4 +25,7 @@ body {
 }
 .art-progress-played {
     background: orange !important;
+}
+.pc-video-page {
+   padding: 10%;
 }
