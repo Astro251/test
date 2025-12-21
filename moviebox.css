@@ -1,7 +1,8 @@
 body {
    padding-top: 35vh;
 }
-.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title, .play-limit-desc, .download-tab, .content-warp, .pc-play-limited {
+.btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title,
+.play-limit-desc, .download-tab, .content-warp, .pc-play-limited, .pc-sub-nav, .pc-download-banner, .pc-main, .pc-fixed-box, .pc-feedback-tip {
     display: none !important;
 }
 .limited-bg, .pc-limited-bg {
