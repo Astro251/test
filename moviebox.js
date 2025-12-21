@@ -11,4 +11,4 @@ document.body.addEventListener('click', () => {
             video.msRequestFullscreen();
         }
     }
-},
+},);
