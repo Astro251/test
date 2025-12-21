@@ -1,5 +1,12 @@
-body {
-   padding-top: 35vh;
+.subject-box {
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video-cot {
+   width: 100vw;
 }
 .btm-download-box, .action-box, .action-item, .detail-info, .mid-download-box, .content, .more-cont, .limit-btn, .play-limit-title,
 .play-limit-desc, .download-tab, .content-warp, .pc-play-limited, .pc-sub-nav, .pc-download-banner, .pc-main, .pc-fixed-box, 
