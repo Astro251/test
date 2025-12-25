@@ -1,6 +1,7 @@
 {
   "allowedHosts": [
-    "*",
+    "*,*,*",
+    "*,*",
     "prmovies.*",
     "speedostream1.com",
     "speedostream.com",
@@ -47,6 +48,7 @@
     "moviebox.*"
   ]
 }
+
 
 
 
