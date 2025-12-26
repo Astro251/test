@@ -12,6 +12,10 @@
     "entitlements.jwplayer.com",
     "netu.ac",
     "commentsmodule.com",
+    "*.cloudflare.com",
+    "*.cloudflare.net",
+    "*.cf-assets.net",
+    "*.cf-chl.com",
     "challenges.cloudflare.com",
     
     "filemoon.art",
@@ -47,5 +51,6 @@
     "moviebox.*"
   ]
 }
+
 
 
