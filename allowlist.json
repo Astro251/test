@@ -1,5 +1,11 @@
 {
   "allowedHosts": [
+    "*.pages.dev",
+    "*.cloudflare.com",
+    "*.cloudflare.net",
+    "*.cf-assets.net",
+    "*.cf-chl.com",
+    "challenges.cloudflare.com",
     "prmovies.*",
     "speedostream1.com",
     "speedostream.com",
@@ -12,11 +18,6 @@
     "entitlements.jwplayer.com",
     "netu.ac",
     "commentsmodule.com",
-    "*.cloudflare.com",
-    "*.cloudflare.net",
-    "*.cf-assets.net",
-    "*.cf-chl.com",
-    "challenges.cloudflare.com",
     
     "filemoon.art",
     "*.i8yz83pn.com",
@@ -51,6 +52,7 @@
     "moviebox.*"
   ]
 }
+
 
 
 
