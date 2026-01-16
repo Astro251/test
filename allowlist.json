@@ -46,12 +46,19 @@
     "fonts.googleapis.com",
     "fonts.gstatic.com",
 
+    "krakenfiles.com",
+    "phs1.krakencloud.net",
+    "www.gstatic.com",
+    "cdn.plyr.io",
+    
+
     "lok-lok.cc",
     "*.hakunaymatata.com",
     "*.shallspark.com",
     "moviebox.*"
   ]
 }
+
 
 
 
